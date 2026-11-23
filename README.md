@@ -54,7 +54,7 @@ A collection of 12 Artificial Intelligence lab practicals implemented using Pyth
 3. Run the program using Python:
 
    ```bash
-   python practical_01.py
+   python code.py
    ```
 
 4. Check the output in the terminal.
@@ -93,7 +93,7 @@ Artificial-Intelligence-Practicals/
 
 ## 👨‍💻 Author
 
-**Venkata Sharath Kumar Jakki**
+**Lokesh Naga Sai Tungala**
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
